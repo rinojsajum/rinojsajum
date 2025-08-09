@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://YOUR_USERNAME.github.io/REPO_NAME/embed.html?user=YOUR_USERNAME" 
+  <img src="https://rinojsajum.github.io/gittree/embed.html?user=rinojsajum" 
        alt="My GitHub Contribution Tree" 
        width="600" 
        height="400"/>
