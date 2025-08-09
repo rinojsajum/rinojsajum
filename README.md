@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <div align="center">
   <img src="https://rinojsajum.github.io/gittree/embed.html?user=rinojsajum" 
        alt="My GitHub Contribution Tree" 
        width="600" 
        height="400"/>
 </div>
+-->
+
+![Profile Card](https://rinojsajum.github.io/gittree/embed.html?user=rinojsajum)
