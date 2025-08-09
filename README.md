@@ -23,4 +23,16 @@ Here are some ideas to get you started:
 </div>
 -->
 
-![Profile Card](https://rinojsajum.github.io/gittree/embed.html?user=rinojsajum)
+<!--![Profile Card](https://rinojsajum.github.io/gittree/embed.html?user=rinojsajum) -->
+
+<!-- 3D GitHub Contribution Tree -->
+<div align="center">
+  <img src="https://rinojsajum.github.io/gittree/index.html?user=qwerfihg qwoieuhgf&embed=true" alt="qwerfihg qwoieuhgf's GitHub Contribution Tree" width="600" height="400"/>
+</div>
+
+<!-- Alternative: Direct link -->
+<div align="center">
+  <a href="https://rinojsajum.github.io/gittree/index.html?user=qwerfihg qwoieuhgf">
+    <img src="https://rinojsajum.github.io/gittree/index.html?user=qwerfihg qwoieuhgf&embed=true" alt="View qwerfihg qwoieuhgf's 3D Contribution Tree" width="600" height="400"/>
+  </a>
+</div>
