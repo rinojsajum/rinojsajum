@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://YOUR_USERNAME.github.io/REPO_NAME/embed.html?user=YOUR_USERNAME" 
+       alt="My GitHub Contribution Tree" 
+       width="600" 
+       height="400"/>
+</div>
